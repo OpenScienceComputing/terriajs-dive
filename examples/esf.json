@@ -1,7 +1,15 @@
-{
-  "type": "url-template-imagery",
-  "name": "USGS AGB 1990 TIF",
-  "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=https://usgs.osn.mghpcc.org/esip/rsignell/testing/agb_1990_cog_geo.tif",
-  "description": "A WMTS-like service created with Titiler for the AGB 1990 TIF file.",
-  "id": "usgs-agb-1990-tif"
-}
+[
+  {
+    "name": "Titiler Raster Sources",
+    "type": "group",
+    "members": [
+      {
+        "type": "url-template-imagery",
+        "name": "USGS AGB 1990 TIF",
+        "url": "https://titiler.usgs.gov/cog/tiles/{z}/{x}/{y}?url=https://usgs.osn.mghpcc.org/esip/rsignell/testing/agb_1990_cog_geo.tif",
+        "description": "Annual above-ground biomass in kilograms per square meter from the USGS.",
+        "id": "usgs-agb-1990-tif"
+      }
+    ]
+  }
+]
