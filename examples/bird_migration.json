@@ -11,7 +11,7 @@
           "isEnabled": true,
           "layers": "MERRA2_2m_Air_Temperature_Monthly",
           "parameters": {
-             "intervals": ["2015-01-01/2016-01-01"]
+             "intervals": "2015-01-01/2016-01-01"
           }      
         },
         {
@@ -42,6 +42,7 @@
   "initialViewerMode": "3dSmooth",
   "services": []
 }
+
 
 
 
