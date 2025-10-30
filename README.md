@@ -8,11 +8,11 @@ Check out the TerriaJS Tips and Links on the [project wiki](https://github.com/U
 ## Examples
 ### Bird Migration 
 Using CZML for bird positions and time-dependent WMS from THREDDS for monthly temperatures:
-https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/bird_migration.json
+https://maps.digitalearth.africa/#clean&proxy/_60s/https://raw.githubusercontent.com/OpenScienceComputing/terriajs-dive/master/examples/bird_migration.json
 
 ### Alaska Geology 
 ESRI REST services from ScienceBase:
-https://gamone.whoi.edu/terriamap/#clean&proxy/_60s/https://raw.githubusercontent.com/USGS-CMG/terriajs-dive/master/examples/alaska_geology_layers.json
+https://maps.digitalearth.africa/#clean&proxy/_60s/https://raw.githubusercontent.com/OpenScienceComputing/terriajs-dive/master/examples/alaska_geology_layers.json
 
 ### CSW Search 
 CSW Search on the IOOS Catalog for ROMS Ocean Forecast Models and WMS Services:
