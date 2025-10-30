@@ -12,8 +12,7 @@
           "layers": "MERRA2_2m_Air_Temperature_Monthly",
           "parameters": {
              "intervals": ["2015-01-01/2016-01-01"]
-          }
-         
+          }      
         },
         {
           "name": "Geographic Centers of Migratory Bird Species ",
@@ -43,6 +42,7 @@
   "initialViewerMode": "3dSmooth",
   "services": []
 }
+
 
 
 
