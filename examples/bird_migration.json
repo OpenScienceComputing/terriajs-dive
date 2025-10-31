@@ -28,6 +28,8 @@
     }
   ],
   "corsDomains": [
+    "gibs.earthdata.nasa.gov",
+    "raw.githubusercontent.com",
     "whoi.edu",
     "corsproxy.com",
     "programs.communications.gov.au",
@@ -43,6 +45,7 @@
   "initialViewerMode": "3dSmooth",
   "services": []
 }
+
 
 
 
