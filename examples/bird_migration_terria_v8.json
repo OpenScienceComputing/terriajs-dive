@@ -26,10 +26,9 @@
     }
   ],
   "corsDomains": [
-    "whoi.edu",
-    "corsproxy.com",
-    "programs.communications.gov.au",
-    "www.asris.csiro.au"
+    "gibs.earthdata.nasa.gov",
+    "raw.githubusercontent.com",
+    "corsproxy.com"
   ],
   "homeCamera": {
     "west": -160,
