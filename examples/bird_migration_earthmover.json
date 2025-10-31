@@ -22,8 +22,10 @@
           "isEnabled": true,
           "layers": "temperature_2m",
           "parameters": {
-            "version": "1.1.1"
-          }      
+            "COLORSCALERANGE": "-10,10",
+            "VERSION": "1.1.1",
+            "styles": "raster/jet"
+          }
         },        
         {
           "name": "Geographic Centers of Migratory Bird Species ",
