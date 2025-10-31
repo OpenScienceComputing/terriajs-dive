@@ -14,7 +14,7 @@
             "COLORSCALERANGE": "-40,40",
             "VERSION": "1.1.1",
             "styles": "raster/jet",
-            "intervals": ["2015-01-01/2016-01-01"]
+            "intervals": "2015-01-01/2016-01-01"
           }
         },        
         {
